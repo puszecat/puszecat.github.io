@@ -7,3 +7,6 @@ p.fancy{
   color:#666;
   font-style: oblique;
 }
+table, th, td{
+  border: 1 px solid black;
+}
