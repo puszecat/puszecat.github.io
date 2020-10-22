@@ -10,7 +10,7 @@ p.fancy{
 table, th, td {
   border: 1px solid black;
 }
-body{
-color:#414141;
-background color:#EEEEEE;
+body {
+  color: #414141;               /* Dark gray */
+  background-color: #EEEEEE;    /* Light gray */
 }
