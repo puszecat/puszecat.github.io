@@ -8,5 +8,7 @@ p.fancy{
   font-style: oblique;
 }
 #t01{
+  width: 100%;
+  background color: red;
   border:1 px solid black;
 }
