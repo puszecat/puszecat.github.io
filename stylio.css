@@ -11,6 +11,6 @@ table, th, td {
   border: 1px solid black;
 }
 body {
-  color: #414141;               /* Dark gray */
-  background-color: #EEEEEE;    /* Light gray */
+  color: #808080;
+  background-color: #C0C0C0;
 }
