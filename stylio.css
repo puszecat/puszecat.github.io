@@ -12,13 +12,13 @@ table, th, td {
   border: 2px solid black;
 }
 body {
-  color: #4169E1;
+  color: #0000FF;
   background-color: #C0C0C0;
 }
 h1, h2, h3, h4{
   font-family: "Helvetica", "Arial", sans-serif;
  font-weight: strong;
-  font-color: #00008B;
+  color: #00008B;
 }
 ul.nav li{
   display:inline;
