@@ -26,7 +26,7 @@ ul.nav li{
 ul.nav li a{
   display:inline-block;
   padding:10px;
-  background-color:#076033
+  background-color:#076033;
   color: white;
   text decoration:none;
 }
